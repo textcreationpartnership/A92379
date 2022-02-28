@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the taking of Cicester in the county of Glocester, on Thursday, Febru. 2. 1642. By 7000. of the cavaliers, under the command of Prince Rupert, Prince Maurice, the Earles of Northampton, Carnarvon, Denbigh, and Cleveland, the Lord Digby, Lord Andevour, Lord Wentworth, Lord Taffe, Lord Dillon, Lieutenant Generall Willmot, Sir John Byron, Colonell Gerrard, Colonell Kyrke, Colonell Dutton, and Captaine Legge, and divers others. Sent to a friend in London, by one who was present at, and some dayes after the taking of it. Published because of the many false reports that were in print concerning that businesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92379</idno>
+            <idno type="STC">Wing R875</idno>
+            <idno type="STC">Thomason E90_7</idno>
+            <idno type="STC">ESTC R19910</idno>
+            <idno type="EEBO-CITATION">99860773</idno>
+            <idno type="PROQUEST">99860773</idno>
+            <idno type="VID">112898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112898)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the taking of Cicester in the county of Glocester, on Thursday, Febru. 2. 1642. By 7000. of the cavaliers, under the command of Prince Rupert, Prince Maurice, the Earles of Northampton, Carnarvon, Denbigh, and Cleveland, the Lord Digby, Lord Andevour, Lord Wentworth, Lord Taffe, Lord Dillon, Lieutenant Generall Willmot, Sir John Byron, Colonell Gerrard, Colonell Kyrke, Colonell Dutton, and Captaine Legge, and divers others. Sent to a friend in London, by one who was present at, and some dayes after the taking of it. Published because of the many false reports that were in print concerning that businesse.</title>
+                  <author>One who was present at, and some dayes after the taking of it.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maurice, --  Prince, 1620-1652.</term>
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Chichester (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112898:1" rendition="simple:additions"/>
+            <p>A RELATION OF THE TAKING OF CICESTER IN THE COVNTY OF GLOCESTER, On Thurſday, <hi>Febru.</hi> 2. 1642.</p>
+            <p>By 7000. of the Cavaliers, under the com<g ref="char:EOLhyphen"/>mand of Prince <hi>Rupert,</hi> Prince <hi>Maurice,</hi> the Earles of <hi>Northampton, Carnarvon, Denbigh,</hi> and <hi>Cleveland,</hi> the Lord <hi>Digby,</hi> Lord <hi>Andevour,</hi> Lord <hi>Wentworth,</hi> Lord <hi>Taffe,</hi> Lord <hi>Dillon,</hi> Lieutenant Generall <hi>Willmot,</hi> Sir <hi>John Byron,</hi> Colonell <hi>Gerrard,</hi> Colonell <hi>Kyrke,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Dutton,</hi> and Captaine <hi>Legge,</hi> and divers others.</p>
+            <p>Sent to a friend in <hi>London,</hi> by one who was preſent at, and ſome dayes after the taking of it.</p>
+            <p>Publiſhed becauſe of the many falſe reports that were in Print concerning that buſineſſe.</p>
+            <p>
+               <add>Feb: 20<hi rend="sup">th</hi>
+               </add> Printed at <hi>London,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112898:2"/>
+            <head>A Realtion of the taking of CICESTER, in the County of <hi>GLOCESTER,</hi> on Thurſday, <hi>February</hi> 2. 1642.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall indeavour to give you a birefe and true ac<g ref="char:EOLhyphen"/>count of the ſtate of the miſerable Towne of <hi>Ci<g ref="char:EOLhyphen"/>ceſter,</hi> in the County of <hi>Gloceſter,</hi> from the firſt troubles to the taking of it, and doe requeſt you to acquaint thoſe Parliament men you have inte<g ref="char:EOLhyphen"/>reſt in, what we have ſuffered for deſiring to ſtand and fall with them; not doubting but they will ſo reſent our ſufferings, that they will expedite ſuch ſuccours in<g ref="char:EOLhyphen"/>to our County, as may relieve <hi>Gloceſter,</hi> and procure ſome little refreſh<g ref="char:EOLhyphen"/>ment to the poore Towne of <hi>Ciceſter,</hi> and our waſted County adjoy<g ref="char:EOLhyphen"/>ning.</p>
+            <p>Our greateſt enemies from the firſt have beene our owne <hi>Countreymen,</hi> our firſt troubles beganne about <hi>Auguſt</hi> laſt, when the Lord <hi>Chandoys</hi> (having accepted from the Parliament the charge of being Lord Lieu<g ref="char:EOLhyphen"/>tenant of our County, and betraying both his Countrey and his truſt) attempted to execute the Commiſſion of Array, and to that purpoſe ſummoned all the Gentry of our County to meete his Lord<g ref="char:EOLhyphen"/>ſhip at <hi>Ciceſter,</hi> but what entertainment he and his Array-men had there, I preſume you know, having heard how the Lord <hi>Chandoys</hi> hard<g ref="char:EOLhyphen"/>ly eſcaped from being taken priſoner by the Countrey that roſe in Armes to reſiſt his illegall Commiſſion, and how the next morning af<g ref="char:EOLhyphen"/>ter his eſcape, the ſurious people hewed his Lordſhips Coach in peeces which he had left behinde him, ſo much they abhorred to be betraied to ſlavery by one of their owne Countrey.</p>
+            <p>Hereupon <hi>Ciceſter,</hi> (though the Townſmen were a meanes to ſave the Lord <hi>Chandoys</hi> life, who elſe might have beene torne in peeces by ſome of the inraged Countrey people) was much threatned with fire and ſword, and indeed ſo was the whole Countrey for reſiſting the
+<pb facs="tcp:112898:2"/>
+Commiſſion of Array; and it was thought fit by the Deputy Lieute<g ref="char:EOLhyphen"/>nants of our County, that a Garriſon ſhould be kept in <hi>Ciceſter,</hi> it being alwayes feared that that Towne would be the firſt attempted in the County of <hi>Gloceſter.</hi>
+            </p>
+            <p>Thus we continued in Armes, not doing or ſuffering much till <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> onely the Cavaliers, when they came within twelve miles of us to <hi>Burford,</hi> were twice beaten out of their Quarters there, by ſome parties that went out from our Garriſon of <hi>Ciceſter,</hi> we being very im<g ref="char:EOLhyphen"/>patient of ſuch bad neighbours.</p>
+            <p>On Saturday, the laſt of <hi>December,</hi> the Lord Marqueſſe <hi>Hartford,</hi> with his Welſh Regiments, and Sir <hi>John Beaumont</hi> with his forces came up from <hi>Worceſter</hi> to the Towne of <hi>Stow</hi> in our County, and on Tueſday following marched thence to <hi>Burford,</hi> where finding his entertainment ſcanty, his Lordſhip preſently repaired to the King at <hi>Oxford,</hi> and there adviſed his Majeſty, that unleſſe he might have contribution and Quar<g ref="char:EOLhyphen"/>ter for his Army in <hi>Gloceſterſhire</hi> and <hi>Wiltſhire,</hi> (which he affirmed would never be had till the Town of <hi>Ciceſter</hi> was taken) they could not long ſubſiſt, the ſtores of all places (where they were maſters) being neare ſpent and exhauſted. His Lordſhip alſo, with much con<g ref="char:EOLhyphen"/>fidence, offered his Majeſty that he would take the Towne, if he might be aſſiſted with ſome great horſe and Dragoones: hereupon as he deſi<g ref="char:EOLhyphen"/>red, a Commiſſion was granted to him and Prince <hi>Rupert</hi> with two Regiments of horſe, and one of Dragoones, and Prince <hi>Maurice</hi> with all his horſe and Dragoones was ſent to aid him.</p>
+            <p>In purſuance whereof, his Lordſhip with his Army, (as ſome of their owne reported) to the number of 6000. horſe and foote, upon Saturday the ſeventh of <hi>January,</hi> about noone, drew up his Forces al<g ref="char:EOLhyphen"/>moſt round about the Towne, and where they made their firſt ſtand, they made a pauſe for above two houres, in which time they onely ſent out ſcouts to view our Guards, &amp; then ſummoned thoſe in the Town in the name of Marqueſſe <hi>Hartford,</hi> Lord Generall of thoſe Forces, by a Trumpet, to deliver up the Towne and Armes to his Lordſhip, upon promiſe of his Majeſties free pardon for all by-gone offences, with aſ<g ref="char:EOLhyphen"/>ſurance of ſafety of their perſons and eſtates; which if it were refuſed, no mercy might be expected. Before the firſt Trumpet was diſpatched, a ſecond came in the name of Prince <hi>Rupert,</hi> with the ſame meſſage in effect; adding onely, That they came to vindicate and maintaine the Kings Rights and Prerogative. The anſwer returned to both, was the ſame, and in ſubſtance this. <hi>We doe heartily acknowledge and profeſſe our ſelves to be his Majeſties loyall and faithfull Subjects, and ſhall be ever as rea<g ref="char:EOLhyphen"/>dy
+<pb facs="tcp:112898:3"/>
+with our lives and fortunes to maintaine his juſt Rights and Prerogatives as they were, or the beſt of his Majesties Subjects; and as we are ſo, we ought likewiſe to enjoy his Majeſties peace, and the juſt Rights and Liberties of the Subjects of</hi> England, <hi>according to the Lawes of the Land, in defence where<g ref="char:EOLhyphen"/>of and the true Proteſtant Religion onely we ſtand to our Armes, and are re<g ref="char:EOLhyphen"/>ſolved with Gods aſsiſtance to defend them with our eſtates and lives.</hi> This an<g ref="char:EOLhyphen"/>ſwer being returned; the enemy kept their ſtand on all ſides untill it beganne to grow darke, and then it pleaſed God of his meere mercy ſo to diſcourage them, that they all retreated to their night Quarters in the Villages round about, where they did eate up all the proviſion of victuall, and ſpoyled much Corne and Hay. The next morning they onely ſhewed themſelves before the Towne, and ſo departed without making one ſhot at it, Prince <hi>Rupert</hi> and his Troopes to <hi>Oxford,</hi> Prince <hi>Maurice</hi> to his Quarters at <hi>Farrington,</hi> and Marqueſſe <hi>Hartford</hi> and his Forces to <hi>Burford,</hi> and the Villages adjoyning While they lay before the Towne, our Forces tooke Maſter <hi>John Villiers</hi> priſoner, who was Brother to the Lord <hi>Grandiſon,</hi> and Captaine of a company of Dra<g ref="char:EOLhyphen"/>goones, and is ſtill in priſon at <hi>Gloeeſter;</hi> when they went away they tooke with them all the horſes of the Villages round about us, and did threaten a ſudden returne with more force, and as much fury and re<g ref="char:EOLhyphen"/>venge as they could ſend to us with the beſt Cannon they could bring.</p>
+            <p>So we waited a fortnight for the returne of the enemy, who we heard was marched into <hi>Northamptonſhire,</hi> and in the meane time our Garriſon was increaſed, and the Towne better fortified on all ſides, and we had foure great Iron peeces ſent from <hi>Briſtoll,</hi> beſides two Braſſe peeces we had before from <hi>Gloceſter.</hi>
+            </p>
+            <p>On Thurſday, <hi>January</hi> 26. a party from <hi>Ciceſter</hi> of ſome foure or five hundred great horſe and Dragoones, (who were to meete with more ſtrength from <hi>Gloceſter</hi> and <hi>Tewksbury,</hi> marched hence, to beſiege <hi>Sudely</hi> Caſtle, 14. miles from <hi>Ciceſter,</hi> becauſe it was reported, that certainely ſtrong Malignant party was riſing in that part of <hi>Gloceſhrſhire;</hi> &amp; it was feared that <hi>Sudely</hi> Caſtle (the ſtrongeſt hold in thoſe parts) would be<g ref="char:EOLhyphen"/>come a receptacle both of the Malignants Armes and Treaſure.</p>
+            <p>On Friday, our Forces ſate downe before it, and after ſummons aſſaulted it, and being reinforced from <hi>Ciceſter</hi> with 200. choyce Muſ<g ref="char:EOLhyphen"/>queteers, and one Braſſe peece, they tooke the Caſtle by compoſition.</p>
+            <p>On Munday being the 30. day of <hi>Jan.</hi> Prince <hi>Rupert</hi> (having the week before fetched a compaſſe from <hi>Oxford</hi> by <hi>Northamptonſhire</hi> and <hi>War<g ref="char:EOLhyphen"/>wickſhire,</hi> where he plundered ſome Townes, and tooke away all the Armes and horſes of the Countrey, with which he armed and moun<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:112898:3" rendition="simple:additions"/>
+all his men, except a few Pikes to guard his carriages) appeared be<g ref="char:EOLhyphen"/>fore the Caſtle, and moſt of his men lay all night on the hils. But in re<g ref="char:EOLhyphen"/>gard there fell that night a great Snow, the Cavaliers roſe from before <hi>Sudely,</hi> and the next day being Tueſday, they marched towards <hi>Cice<g ref="char:EOLhyphen"/>ſter,</hi> and quartered within ſeven miles of it, almoſt round about us. And yet this being knowne to our Forces at <hi>Sudely</hi> Caſtle (who were the greateſt part of our ſtrength) they carried there, (I will not ſay by whoſe neglect it was) till the Towne of <hi>Ciceſter</hi> was utterly loſt.</p>
+            <p>On Wedneſday, <hi>Febru.</hi> 1. the enemy was reinforced with ſome freſh Troopes from <hi>Oxford,</hi> and two whole Culverings, beſides foure ſmall Braſſe field peeces, and two Morter peeces, and ſo on Wedneſ<g ref="char:EOLhyphen"/>day night ſome of them quartered within a mile of the Towne, and gave us Alarm's all that night.</p>
+            <p>On Thurſday morning, <hi>Febru.</hi> 2. they were diſcovered ſome two miles from the Towne, where under a hedge they ſtaied ſome two houres, till all their Forces drew together into one body, from their ſeverall Quarters in the Villages, and ſo they divided themſelves, Prince <hi>Rupert,</hi> and the greateſt part of the Army drawing neare the Towne on the Weſt and South part: and the Earle of <hi>Carnarvon,</hi> and his Troops and ſome other forces, on the North &amp; North part of the Town. About nine or ten of the clocke they came ſome of them within the command of our Cannon, which plaied at them two or three houres, and often cauſed them on the Weſt ſide of the Towne to retreate behinde a little hill, and all that while divers parties of our Muſqueteers went out un<g ref="char:EOLhyphen"/>der the ſhelter of hedges and walls, and skirmiſht with the enemy.</p>
+            <p>About twelve a clocke, two or three Regiments of foote being kept in, and forced on by the horſe behinde them, beganne a furious aſſault on the <hi>Barton,</hi> a great Farme which lay not farre from the Towne Weſtward, where they were valiantly entertained by ſome hundred Muſqueteers that lay under the Garden wall.</p>
+            <p>So there continued at the <hi>Barton,</hi> a very hot fight for ſome two houres, our men lying under the ſhelter of the wall, notably giving fire at them, within leſſe then Muſquet ſhot, and our Cannon being little more off then Muſquet ſhot, all the while furiouſly playing point blanke on their whole body, which lay in an open riſing field. Here the Welſhmen were ſeene to drop downe apace, but ſtill the horſemen behinde them, cried On, on, and drave them forward till they had got<g ref="char:EOLhyphen"/>ten quite under the Garden wall. But before that, the enemy had fired ſome Barnes and Ricks of Corne and Hay that lay quice behinde thoſe hundred Muſqueteers, ſo that the enemy being at the wall, and breaking
+<pb facs="tcp:112898:4"/>
+of it downe, and the fire ſo behinde them, that it tooke away all poſſi<g ref="char:EOLhyphen"/>bility of retreating if they ſtaied any longer, and they being ſo few, (and yet as many as could be well ſpared from other Guards) our men were forced out of that worke after two houres valiant reſiſtance of that furious charge of the enemy; during all which time, we loſt but one man, who after the Guard was entred, could not finde his way forth through the fire and ſmoake.</p>
+            <p>Our men retreating to the ſecond worke, which was hard by, being ſo hotly purſued by the enemy, fire and ſmoake, which the wind drave directly upon them; they and the Guards of that worke with<g ref="char:EOLhyphen"/>out any reſiſtance made, very diſorderly fled into the Towne, and were furiouſly purſued by the enemy, who without quarter killed thoſe they met withall or overtooke: which ſo deſperately inraged our men, that in the Market place, and from windowes they ſhot at the enemy almoſt, an houre together, purpoſing to ſell their lives and liberties as deare as deare as they could.</p>
+            <p>Whilſt the enemy was aſſaulting the Towne on the Weſt ſide at the <hi>Barton,</hi> The Earle of <hi>Carnarvon</hi> and his Forces, ſeeing the <hi>Barton</hi> fired, and our men beaten from their workes, ſought to enter it on the North ſide, where there was a ſore charge valiantly received by our men with little loſſe, who yeelded not, till the enemy, who had entred the Town on the other ſide, was on their backs. Thus about foure of the clocke the Towne was wholly wonne, and ſhooting was ended on all ſides, and then they tooke priſoners, and fell to plundering that night, al the next day, and on Saturday, wherein they ſhewed all the barbarous inſolencie of a prevailing enemy, and I am confident, they (it ſeemes being grown more skilfull in miſchief) not only acted over, but out-did their former cruelties and ſpoyle of <hi>Braineford</hi> and <hi>Marleborough;</hi> they ſpa<g ref="char:EOLhyphen"/>red not to plunder their beſt friends; for I can aſſure you, ſome of the notorious Malignants was the moſt notably plundered of all the Towne.</p>
+            <p>I tremble to write of their Blaſphemies, they tauntingly asked ſome godly people, Where is now your God (you Rounhead rogues?) you praied to the Lord to deliver you, and you ſee how he hath delivered you, yee Rebels, &amp;c.</p>
+            <p>The number that the enemy loſt, is altogether unknowne, by reaſon none durſt goe forth to ſee the ſlaine. Of the Town forces, both townſ<g ref="char:EOLhyphen"/>men and Countreymen, there were not above twenty kill'd as can yet be learn'd. It is much feared they ſlew a very godly Miniſter, who was ſeene taken by them, and yet cannot be heard of. There lay ſome of our
+<pb facs="tcp:112898:4"/>
+men naked foure daies after they were killed, neare the place where the enemy after the taking of the Towne kept his outmoſt Guard, and none durſt bury them.</p>
+            <p>The number of Priſoners that they tooke and carried to <hi>Oxford</hi> was betwixt eleven and twelve hundred, amongſt which there were ſome Gentlemen of eminent eſtates and affections to their Countrey. Two very godly Miniſters, divers Commanders, and others, which were ve<g ref="char:EOLhyphen"/>ry religious and of good account.</p>
+            <p>They ſtript many of the priſoners, moſt of them of their outmoſt garments. They were all turned that night into the Church, and though many of them were wounded and weary, yet their friends were not ſuffered to bring them a cup of water into the Church that night, but what they thruſt in at the backſide of the Church, having broken the windowes; and the like cruelty I heare was ſhewed unto them when they lay in <hi>Witney</hi> Church, in their paſſage to <hi>Oxford.</hi>
+            </p>
+            <p>They tied all the priſoners, Gentlemen, Miniſters, and all in Ropes, and made them all goe afoote through the dirt in the ſtreetes and way to <hi>Oxford,</hi> which in regard of the many horſes, was up to their knees ſometimes, and in this manner they uſed a very worthy Gentleman, who had beene very lately high Sheriffe of our County, an aged Gen<g ref="char:EOLhyphen"/>tleman, of an infirme health, though of an undaunted courage in this cauſe.</p>
+            <p>They ſhamefully abuſed the two Miniſters, reproachfully imitating their manner of preaching, &amp;c.</p>
+            <p>The Captaine who tooke the Miniſters, upon the earneſt ſolicitati<g ref="char:EOLhyphen"/>on of their friends for their releaſment, promiſed them that for fifty or ſixty pounds apeece he would releaſe them: which money being pro<g ref="char:EOLhyphen"/>cured and paid them, He ſcoffingly anſwered, that they might well pay as much more to him for not killing them, as he might have done, and they deſerved; and ſo after that they were more ſtraitly impriſoned, and worſe uſed, and one of their friends that had a free paſſe promiſed him into the Towne with the money, had very much adoe to eſcape killing and impriſoning.</p>
+            <p>We loſt five peeces of Cannon, neare upon 1200. Muſquets, and o<g ref="char:EOLhyphen"/>ther Armes, 14. Colours, and ſome Ammunition, for moſt of our Pow<g ref="char:EOLhyphen"/>der and Bullet was ſent unto them before they entred the Towne.</p>
+            <p>The value of the Pillage of the Towne is uncertaine, but very great, to the utter ruine of many hundred families, and beſides the burning of ſome particular mens houſes, which were purpoſely ſet on fire after the Towne was wonne. The <hi>Barton</hi> Farme with very much buildings
+<pb facs="tcp:112898:5"/>
+in it, and all the Corne, Hay, and other goods and Cattle of one Gen<g ref="char:EOLhyphen"/>tlemans, which amounted to 3000. pounds and upwards, was burnt to the ground.</p>
+            <p>On Friday they went into the Countrey, and tooke away all the Horſes, Sheepe, Oxen, and other Cattle of the well-affected that inha<g ref="char:EOLhyphen"/>bited neare <hi>Ciceſter.</hi>
+            </p>
+            <p>On Saturday, <hi>Febru.</hi> 4. they tooke away Cloth, Wooll, and Yarne, beſides other goods from the Clothiers, about <hi>Stroudwaler,</hi> to the ut<g ref="char:EOLhyphen"/>te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> und<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, not onely of them and theirs, but of thouſands of poore people, whoſe very livelihood depend on that trade.</p>
+            <p>Now Sir, before I cloſe up all, I ſhall give you a hint of what I conceive, beſides our ſinnes, concurred with the irreſiſtible will of God, to haſten our ruin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <list>
+               <item>1. The want of our Horſe, which made them confidently brave our men at their very workes, as alſo the want of Cannoneers, which were at <hi>Sudely</hi> Caſtle.</item>
+               <item>2. The ſlow raiſing of monies out of the Countrey, which made ſome of our men, for lacke of pay, to depart the Towne, and left many of the reſt heartleſſe, and our workes but thinly manned.</item>
+               <item>3. The treachery of our Malignant Gentry round about us, who conſtantly gave the enemy intelligence, and entertainment in their houſes, made proviſion for their Armies, and ſome of them appeared in Armes before their neighbour Towne, which they could indure to ſee both fired and ſpoyled.</item>
+            </list>
+         </div>
+         <div type="license">
+            <p>It is Ordered this eighteenth day of <hi>February</hi> 1642. by the Committee of the Houſe of Comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns in Parliament concerning Printing, that this Booke intituled <hi>A Relation of the taking of Ciceſter,</hi> be Printed by <hi>Michael Sparke</hi> ſenior.</p>
+            <closer>
+               <signed>John White.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
